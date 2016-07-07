@@ -16,19 +16,19 @@ nav a:hover {
 }
 
 .clearfix:after {
-    visibility: hidden;
-    display: block;
-    content: " ";
-    clear: both;
-    height: 0;
-    font-size: 0;
- }
+	visibility: hidden;
+	display: block;
+	content: " ";
+	clear: both;
+	height: 0;
+	font-size: 0;
+}
 
 .board {
 	height: 50%;
 	width: 50%;
 	display: inline-block;
-	}
+}
 
 .card {
 	height: 200px;
@@ -38,14 +38,14 @@ nav a:hover {
 	border-radius: 10px;
 	float: left;
 	margin: 8%;
-	}
+}
 
 h1 {
 	color: rgb(2, 132, 130);
-	}
+}
 h2 {
 	color: #ffd700;
-	}
+}
 
 h1, h2, p {
 	text-align: center;
@@ -57,4 +57,4 @@ footer {
 
 .name {
 	color: #ff0000;
-	}
+}
